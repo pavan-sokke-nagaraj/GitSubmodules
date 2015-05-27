@@ -6,5 +6,8 @@ class SubMod1{
 	// commit 2
 	int b;
 	
+	// commit 3
+	int c;
+	
 	
 }
