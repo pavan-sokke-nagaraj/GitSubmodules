@@ -14,4 +14,7 @@ class SubMod1{
 	
 	// commmit 5
 	int e;
+	
+	// commmit 6
+	int f;
 }
