@@ -26,4 +26,7 @@ class SubMod2{
 	
 	// commit GITEx
 	int gITEx;
+	
+	// commit GITEx from GitSubModules
+	int gITEx_subModules;
 }
