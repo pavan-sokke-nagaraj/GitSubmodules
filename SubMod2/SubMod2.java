@@ -32,4 +32,7 @@ class SubMod2{
 	
 	// commit tortoiseGit from GitSubModules
 	int tortoiseGit_subModules;
+	
+		// commit tortoiseGit from GitSubModules
+	int tortoiseGit_subModules; // 2nd time
 }
