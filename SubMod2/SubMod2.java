@@ -29,4 +29,7 @@ class SubMod2{
 	
 	// commit GITEx from GitSubModules
 	int gITEx_subModules;
+	
+	// commit tortoiseGit from GitSubModules
+	int tortoiseGit_subModules;
 }
