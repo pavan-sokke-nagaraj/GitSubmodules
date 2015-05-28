@@ -8,4 +8,7 @@ class SubMod2{
 	
 	// commit 3
 	int commit3;
+	
+	// commit 4
+	int commit4;
 }
