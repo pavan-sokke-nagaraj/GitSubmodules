@@ -23,4 +23,7 @@ class SubMod2{
 	
 	// commit 8 Upward push from repo to sub mod
 	int commit8;
+	
+	// commit GITEx
+	int gITEx;
 }
