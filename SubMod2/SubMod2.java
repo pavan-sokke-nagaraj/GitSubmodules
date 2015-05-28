@@ -17,4 +17,7 @@ class SubMod2{
 	
 	// commit 6
 	int commit6;
+	
+	// commit 7 to test the update of submodules in DevRcTest repository
+	int commit7;
 }
