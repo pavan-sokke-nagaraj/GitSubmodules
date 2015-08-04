@@ -1,6 +1,6 @@
 class SubMod2{
 	
-	//To check submodule update 
+	//To check submodule update subModuleUpdate
 	int subModuleUpdate;
 	
 }
